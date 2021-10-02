@@ -17,10 +17,11 @@ body {
 
 .container {
     width: 28vw;
-    height: 62vh;
+    height: 70vh;
     background: radial-gradient(at center, rgba(214, 202, 202, 0.05), rgba(224, 217, 217, 0.05));
     text-align: center;
     box-shadow: 0 2px 4px rgba(214, 202, 202, 0.05);
+    border-radius: 8px;
 }
 
 .container h1 {
