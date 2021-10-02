@@ -1,4 +1,4 @@
-function Calculate() {
+Calculate = () => {
     let amount = document.getElementById('amount').value
     let time = document.getElementById('time').value
     let rate = document.getElementById('rate').value
