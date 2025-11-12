@@ -5,5 +5,5 @@ Calculate = () => {
 
     let result = (amount * time * rate) / 100
 
-    document.getElementById('ysi').innerHTML = "Your simple interest is: " + result
+    document.getElementById('ysi').innerHTML = "Votre interet simplet: " + result + " FCFA calculé sur une durée de "+ time + " ans."
 }
